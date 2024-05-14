@@ -1,11 +1,7 @@
-## My Project
+## Training Meta Llama 3 on Amazon SageMaker with Llama-Factory
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+llama-factory-sm-training-docker: docker file used to build the training image
+llama3-training: training and deployment notebooks/scripts for Amazon SageMaker training/inference
 
 ## Security
 
